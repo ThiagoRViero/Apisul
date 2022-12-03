@@ -1,0 +1,11 @@
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\bin\Debug\TesteApisul.exe.config
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\bin\Debug\TesteApisul.exe
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\bin\Debug\TesteApisul.pdb
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\obj\Debug\TesteApisul.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\obj\Debug\TesteApisul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\obj\Debug\TesteApisul.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\obj\Debug\TesteApisul.csproj.CopyComplete
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\obj\Debug\TesteApisul.exe
+C:\Users\Thiago\source\repos\TesteApisul\TesteApisul\obj\Debug\TesteApisul.pdb
